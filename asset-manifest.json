@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.622141c3.chunk.css",
-    "main.js": "/static/js/main.ede19046.chunk.js",
-    "main.js.map": "/static/js/main.ede19046.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bd57339a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bd57339a.js.map",
-    "static/js/2.f641dfcd.chunk.js": "/static/js/2.f641dfcd.chunk.js",
-    "static/js/2.f641dfcd.chunk.js.map": "/static/js/2.f641dfcd.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.622141c3.chunk.css.map": "/static/css/main.622141c3.chunk.css.map",
-    "static/js/2.f641dfcd.chunk.js.LICENSE.txt": "/static/js/2.f641dfcd.chunk.js.LICENSE.txt",
-    "static/media/Chair.22012274.glb": "/static/media/Chair.22012274.glb",
-    "static/media/Chair.78b0c338.png": "/static/media/Chair.78b0c338.png",
-    "static/media/GeoPlanter.62072832.png": "/static/media/GeoPlanter.62072832.png",
-    "static/media/GeoPlanter.f7caaef6.glb": "/static/media/GeoPlanter.f7caaef6.glb"
+    "main.css": "/web-ar-demo/static/css/main.622141c3.chunk.css",
+    "main.js": "/web-ar-demo/static/js/main.ede19046.chunk.js",
+    "main.js.map": "/web-ar-demo/static/js/main.ede19046.chunk.js.map",
+    "runtime-main.js": "/web-ar-demo/static/js/runtime-main.abc320fa.js",
+    "runtime-main.js.map": "/web-ar-demo/static/js/runtime-main.abc320fa.js.map",
+    "static/js/2.f641dfcd.chunk.js": "/web-ar-demo/static/js/2.f641dfcd.chunk.js",
+    "static/js/2.f641dfcd.chunk.js.map": "/web-ar-demo/static/js/2.f641dfcd.chunk.js.map",
+    "index.html": "/web-ar-demo/index.html",
+    "static/css/main.622141c3.chunk.css.map": "/web-ar-demo/static/css/main.622141c3.chunk.css.map",
+    "static/js/2.f641dfcd.chunk.js.LICENSE.txt": "/web-ar-demo/static/js/2.f641dfcd.chunk.js.LICENSE.txt",
+    "static/media/Chair.22012274.glb": "/web-ar-demo/static/media/Chair.22012274.glb",
+    "static/media/Chair.78b0c338.png": "/web-ar-demo/static/media/Chair.78b0c338.png",
+    "static/media/GeoPlanter.62072832.png": "/web-ar-demo/static/media/GeoPlanter.62072832.png",
+    "static/media/GeoPlanter.f7caaef6.glb": "/web-ar-demo/static/media/GeoPlanter.f7caaef6.glb"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd57339a.js",
+    "static/js/runtime-main.abc320fa.js",
     "static/js/2.f641dfcd.chunk.js",
     "static/css/main.622141c3.chunk.css",
     "static/js/main.ede19046.chunk.js"
